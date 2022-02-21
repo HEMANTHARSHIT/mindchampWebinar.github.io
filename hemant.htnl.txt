@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>
+TABLE PRATICE+
+</title>
+<body>
+   <TR><TH>Sr No</th><th>Empoyyee NAME</TH><TH>Age</th>  <th>Designation</th>          </tr>
+   <tr><td>1</td>     <td>Harshit</td>     <td>24</td>   <td>Analyst</td>  
+ <tr><td>2</td>     <td>Jitender</td>     <td>24</td>   <td>Analyst</td>  
+ <tr><td>1</td>     <td>Harshit</td>     <td>24</td>   <td>Analyst</td>  
+ <tr><td>1</td>     <td>Harshit</td>     <td>24</td>   <td>Analyst</td>      
+
+</TABLE> 
+</BODY>
+</HTML>

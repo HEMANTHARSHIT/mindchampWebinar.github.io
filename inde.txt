@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<BODY style="background-image:url( 'banner.jpg');opacity:.9;background-size:cover;background-repeat:no-repeat;">
+<header>
+<center>
+<h1>Incredible Indian</H1>
+<MARQUEE>Explore the best destination to  visitin India</marquee>
+
+<h2 font-family="Lucida Console"><ul style="padding:10px;">
+<li style="display:inline-block"><a href="index.html">Home</a>||<li>
+<li style="display:inline-block"><a href="popular.html">Popular Destination</a>||<li>
+<li style="display:inline-block"><a href="Spiritual.html">Spiritual Capital</a>||<li>
+<li style="display:inline-block"><a href="Heritage.html">Heritage sites</a>||<li>
+<li style="display:inline-block"><a href="Beaches.html">Serence Beaches</a><li>
+
+</ul>
+</h2>
+</center></header><section style="padding-left:100px"><img src=""> <article style="margin-top:100px;padding-left:100px;color:##FF8C00;"><P STYLE=" FONT-SIZe:20px;">
+
+
+
+
+</body>
+</html>

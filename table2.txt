@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>
+Table
+</title>
+</head>
+<body>
+<table>
+          <tr>
+          <th>No.</th>
+          <th>Full Name</th>
+          <th>Position</th>
+          <th>Salary</th>
+          <th>type</th>
+          </tr>
+
+
+          <tr>
+          <td>1</td>
+          <td>Bill Gates</td>
+          <td>Founder of Microsoft</td>
+          <td>$1000</td>
+          </tr>
+   
+   <tr>
+          <td>1</td>
+          <td>Bill Gates</td>
+          <td>Founder of Microsoft</td>
+          <td>$1000</td>
+          </tr>
+
+  <tr>
+          <td>1</td>
+          <td>Bill Gates</td>
+          <td>Founder of Microsoft</td>
+          <td>$1000</td>
+          </tr>
+
+
+
+
+
+
+
+
+</table>
+</body>
+</html>
